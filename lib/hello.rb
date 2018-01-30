@@ -8,7 +8,7 @@ def hello_t(array)
     end
 
     array
-  else 
+  else
     puts "Hey! No block given!"
   end
 end
